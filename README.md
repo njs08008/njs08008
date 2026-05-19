@@ -6,6 +6,5 @@ I'm no software developer, but some of these areas tend to bump right up on it, 
 
 Not all of the work I do makes sense to include here, and most of what I do is proprietary, but once in a blue moon I'll update this.
 Despite the spareness of my repos,  you can still find a few good examples here!
-- [Object Oriented Programming in Python](https://github.com/njs08008/miscelaneous/blob/master/tic_tac_toe_class.py)
-- [Procedural Programming in Python](https://github.com/njs08008/miscelaneous/blob/master/tic_tac_toe_procedural.py)
-- [Clusting in a Python Jupyter Notebook](https://github.com/njs08008/Springboard/blob/master/machine_learning/Mini_Project_Clustering.ipynb)
+- [Sample Modern Data Stack](https://github.com/njs08008/Sample_Modern_Data_Stack)
+- [Sample OpenAI Agents](https://github.com/njs08008/Sample_OpenAI_Agents)
